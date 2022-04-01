@@ -1,4 +1,4 @@
-# Spurious normavitiy
+# Human-centered mechanism design with Democratic AI
 
 This package contains a [Colaboratory notebook](https://colab.research.google.com/github/deepmind/hcmd_dai/blob/main/hcmd_dai.ipynb)
 that loads the data for 'Human-centered mechanism design with Democratic AI'.
